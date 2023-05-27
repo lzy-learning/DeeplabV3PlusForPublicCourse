@@ -1,0 +1,9 @@
+# E:\Program Files(x86)\pyProject\env python
+# encoding: utf-8
+'''
+@author: LZY
+@contact: 2635367587@qq.com
+@file: __init__.py.py
+@time: 2023/5/25 23:39
+@desc: 
+'''
